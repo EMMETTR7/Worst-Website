@@ -1,0 +1,100 @@
+body{
+    background-image: url(western.jpg) ;
+    background-size: 1775px;
+
+}
+
+
+
+#title{
+    text-align: center;
+    font-size: 100px;
+    color: #e8c90c;
+
+}
+
+.titles{
+    text-align: center;
+    font-size: 50px;
+    color: #e8c90c;
+}
+
+
+
+#page1Button{
+    position: relative;
+    left: 250px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    background-color: #e0b30e;
+    color: black;
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+}
+
+#page2Button{
+    position: relative;
+    left: 700px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    background-color: #eabb0d;
+    color: black;
+    padding: 20px 34px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+}
+
+.img1{
+    display: inline;
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 100px;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.img2{
+    display: inline;
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 350px;
+    border-style: solid;
+    border-width: 2px;
+}
+
+#body2{
+    text-align: center;
+    background-image: url(town.png);
+}
+
+#body3{
+    text-align: center;
+    background-image: url(town2.jpg);
+}
+
+.imgs{
+    position: relative;
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px 10px;
+    margin: 4px 2px;
+}
+
+.imgs1{
+    position: relative;
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px 10px;
+    margin: 4px 2px;
+}
+
